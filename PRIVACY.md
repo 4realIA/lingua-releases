@@ -2,7 +2,7 @@
 
 _Last updated: October 9, 2026_
 
-Lingua is a language-learning app for Russian and Korean. It is made by an
+Lingua is a language-learning app for Russian, Korean, German, and Italian. It is made by an
 individual developer (publisher "dmd-dev") for family and friends.
 
 ## What Lingua collects
