@@ -1,6 +1,7 @@
 # Lingua
 
-Grammar lessons, drills and flashcards for Russian and Korean.
+Grammar lessons, drills and flashcards for Russian, Korean, German, Italian
+and Hungarian.
 
 This repository holds only Lingua's finished installers and its update feed.
 Installed copies of Lingua check here for new versions.
